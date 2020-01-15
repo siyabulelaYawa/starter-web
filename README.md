@@ -6,9 +6,9 @@ This is a simple decription for Web Repo
 This is a simple decription for Introduction
 
 ## Purpose
-
+This is a simple decription for Purpose
 ## Deployment
-
+This is a simple decription for Deployment
 ## How to contribute
 
-Sample website with plenty of files for demos
+This is a simple decription for Contibution
